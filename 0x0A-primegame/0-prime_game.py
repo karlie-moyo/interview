@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""(501) 0x22. Prime Game task 0. Prime Game
+""" 0x0A. Prime Game task 0. Prime Game
 
 """
 
