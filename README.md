@@ -1,7 +1,5 @@
 # UoS Interview
 
-![image](https://github.com/user-attachments/assets/b0f65594-3f6e-43ba-aa07-fb00704522a5)
-
 ![image](https://github.com/user-attachments/assets/cc057f59-3b32-4887-9a53-9f53886a709c)
 
 🔺Pascal's triangle is the triangular array of numbers🔢that begins with 1 on the top and with 1's running down the two sides of a triangle. Each new number lies between two numbers and below them, and its value is the sum of the two numbers above it.
